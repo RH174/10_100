@@ -1,0 +1,5 @@
+nombre="alexander"
+curso="algoritmos 1"
+año=2003
+edad=2022
+print("nombre ",nombre, "curso" ,edad)
