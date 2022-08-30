@@ -1,0 +1,2 @@
+r i in "alexander ":
+    print(i)
